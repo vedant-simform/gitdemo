@@ -9,3 +9,7 @@ git reset <hascode for last wanted commit>
 git stash
 git stash pop
 git stash clear
+git remote add origin <remote repo url>
+git push origin <master || branch name>
+git branch <branchname>
+git checkout <branchname>
